@@ -27,10 +27,10 @@ async def start(event):
   await event.reply("** Mən bütün userləri tag etməyə hazıram **\ \n əmrləri görmək üçün =======> /help yazın**",
                     buttons=(
                    
-		      [Button.url('Məni qrupa əlavə et, "https://t.me/@LegendTagger_bot?startgroup=a")],
+		                  [Button.url('Məni qrupa əlavə et, "https://t.me/@LegendTagger_bot?startgroup=a")],
                       [Button.url('Support🛠', 'https://t.me/LuciSup')],
                       [Button.url('Rəsmi Kanal', 'https://t.me/@legendupdates')],
-		      [Button.url('Owner👨🏻‍💻', 'https://t.me/@quliyevv_17')],
+		                  [Button.url('Owner👨🏻‍💻', 'https://t.me/@quliyevv_17')],
                     ),
                     link_preview=False
                    )
