@@ -1,2 +1,3 @@
 ### 🚀 Heroku'ya dağıtın
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hesenovhuseyn/LuciTaggerBot)
+### Developer BGMALİY
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Revan1704/legendtagger)
